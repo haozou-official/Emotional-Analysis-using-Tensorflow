@@ -46,4 +46,4 @@ for i in range(iterations):
 sess.run(optimizer,{input_data: next_batch, labels: next_batch_labels})
 ```
 ## Results
-![training results](https://github.com/zouhao0418/Emotional-Analysis-using-Tensorflow/blob/master/training results.png)
+![training results](https://github.com/zouhao0418/Emotional-Analysis-using-Tensorflow/blob/master/training%20results.png)
